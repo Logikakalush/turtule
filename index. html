@@ -1,0 +1,48 @@
+<html>
+    <title> інформація про черепаху</title>
+    <header style="background-color: red">
+        <h1 style="text-align:center" >черепаха</h1>
+    </header>
+    <main style="background-color:yellow">
+    
+        <h2>цікаві факти</h2>
+        <p>Черепаха найдавніша рептилія на Землі. Перша відома науці черепаха з'явилися 220 мільйонів років тому. Розміри доісторичних черепах були величезні – діаметр панцира сягав 3,6 метрів. Сьогодні найбільша черепаха – шкіряста черепаха – розмір її панцира більше 2 метрів в діаметрі, а вага – 500-600 кг.</p>
+        <h2>інформація про черепаху</h2>
+        <p>Містить близько 230 видів, що групуються в 12 родин і 5 підрядів, що поширені по всій землі і живуть як у воді, так і на суші. Черепахи здавна вважаються символом повільності і мудрості.</p>
+        
+        <h2>фотографії черепахи</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUuh2rijIT9eQkngYyzMBxMx1ZAgwxyKzlTg&usqp=CAU"><img src="https://cdn.iz.ru/sites/default/files/article-2020-07/3_4.jpg" width="300"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGvXF09-TwBLGZorEA0mN4vQPu2dL_z7qK2g&usqp=CAU">
+        <table border="1px solid green">
+            
+            <tr>
+                <td>імена</td>
+                <td>фото</td>
+                <td>вік</td>
+            </tr>
+            <tr>
+                <td>Саша</td>
+                <td><img src="https://petsexotic.com.ua/assets/gallery/147/torte-1__medium.jpg"width="80"></td>
+                <td>103 p</td>
+
+                </tr>
+                <tr>
+                    <td>Віка</td>
+                    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbu-2PP6CO0aqgbgIWcTejD7VRG9zA0pocXw&usqp=CAU"width="80"</td>
+                    <td>7 p</td>
+                </tr>
+                <tr>
+                    <td>Костя</td>
+                    <td><img src="https://lh5.googleusercontent.com/1A3bo9vmhJokdkBhq7SVQwFgmcAl2WS5RsKv6hGPThbymON5Mmygg0iTpKP9KzIDsPgJ_KztLDkm95NTLN7puLT6HKOsVSL7yfdRbMo7vLuJSenpxh_eH5B34f0JBB8WEVhE7_Y"width="80"</td>
+                    <td>51 p</td>
+                </tr>
+                <tr>
+                    <td>Маша</td>
+                    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMSgHeNa0SobHsGEmlTn-G3JjUoizlB6UxA&usqp=CAU"width="80"</td>
+                    <td>78 p</td>
+                    </tr>
+        </table>
+    </main>
+    <footer style="background-color: green">
+      <p>рекомендую всім купити черепаху</p>
+    </footer>
+    </html>
